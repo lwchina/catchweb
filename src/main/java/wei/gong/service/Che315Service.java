@@ -8,4 +8,8 @@ package wei.gong.service;
  * Time: 11:36
  */
 public class Che315Service {
+
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 }
